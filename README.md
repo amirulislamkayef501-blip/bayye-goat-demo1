@@ -1,3 +1,3 @@
 # bayye-goat-demo1
 This is my first Repository.
-Authar-Amirul Islam
+Author-Amirul Islam
